@@ -1,6 +1,5 @@
 <p align=center>
-  <samp>👋 Halo Dunia 👋</samp>
+  <samp>Are you a teacher?</samp>
   <br><br>
-  I am a teacher. Work also as a fullstack developer.
-  Currently learning about python django and data sciences.
+  Part Time
 </p>
